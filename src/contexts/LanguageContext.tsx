@@ -91,6 +91,11 @@ const translations: Record<Language, Record<string, string>> = {
     'announcements.general': 'Umum',
     'announcements.urgent': 'Segera',
     'announcements.event': 'Acara',
+    'announcements.new': 'Pengumuman Baru',
+    'announcements.edit': 'Edit Pengumuman',
+    'announcements.delete': 'Padam Pengumuman',
+    'announcements.publish': 'Terbitkan',
+    'announcements.expires': 'Tarikh Tamat',
     
     // Admin
     'admin.title': 'Panel Pentadbiran',
@@ -202,6 +207,11 @@ const translations: Record<Language, Record<string, string>> = {
     'announcements.general': 'General',
     'announcements.urgent': 'Urgent',
     'announcements.event': 'Event',
+    'announcements.new': 'New Announcement',
+    'announcements.edit': 'Edit Announcement',
+    'announcements.delete': 'Delete Announcement',
+    'announcements.publish': 'Publish',
+    'announcements.expires': 'Expiry Date',
     
     // Admin
     'admin.title': 'Administration Panel',
