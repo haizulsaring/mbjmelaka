@@ -79,6 +79,10 @@ const translations: Record<Language, Record<string, string>> = {
     'complaints.category': 'Kategori',
     'complaints.subject': 'Subjek',
     'complaints.description': 'Keterangan',
+    'complaints.priority': 'Keutamaan',
+    'complaints.resolution': 'Penyelesaian',
+    'complaints.submittedBy': 'Dihantar Oleh',
+    'complaints.assignedTo': 'Ditugaskan Kepada',
     
     // Announcements
     'announcements.title': 'Pengumuman',
@@ -186,6 +190,10 @@ const translations: Record<Language, Record<string, string>> = {
     'complaints.category': 'Category',
     'complaints.subject': 'Subject',
     'complaints.description': 'Description',
+    'complaints.priority': 'Priority',
+    'complaints.resolution': 'Resolution',
+    'complaints.submittedBy': 'Submitted By',
+    'complaints.assignedTo': 'Assigned To',
     
     // Announcements
     'announcements.title': 'Announcements',
