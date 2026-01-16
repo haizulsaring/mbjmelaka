@@ -103,6 +103,11 @@ const translations: Record<Language, Record<string, string>> = {
     'admin.roles': 'Peranan',
     'admin.auditLog': 'Log Audit',
     'admin.settings': 'Tetapan',
+    'admin.totalUsers': 'Jumlah Pengguna',
+    'admin.changeRole': 'Tukar Peranan',
+    'admin.confirmChange': 'Sahkan Perubahan',
+    'admin.accessDenied': 'Akses Ditolak',
+    'admin.noPermission': 'Anda tidak mempunyai kebenaran untuk mengakses halaman ini.',
     
     // Auth
     'auth.login': 'Log Masuk',
@@ -219,6 +224,11 @@ const translations: Record<Language, Record<string, string>> = {
     'admin.roles': 'Roles',
     'admin.auditLog': 'Audit Log',
     'admin.settings': 'Settings',
+    'admin.totalUsers': 'Total Users',
+    'admin.changeRole': 'Change Role',
+    'admin.confirmChange': 'Confirm Change',
+    'admin.accessDenied': 'Access Denied',
+    'admin.noPermission': 'You do not have permission to access this page.',
     
     // Auth
     'auth.login': 'Log In',
