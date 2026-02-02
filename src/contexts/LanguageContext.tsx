@@ -125,6 +125,20 @@ const translations: Record<Language, Record<string, string>> = {
     'role.committee': 'Jawatankuasa MBJ',
     'role.chairman': 'Pengerusi',
     
+    // Profile
+    'profile.personalInfo': 'Maklumat Peribadi',
+    'profile.personalInfoDesc': 'Kemaskini maklumat profil anda',
+    'profile.phone': 'No. Telefon',
+    'profile.department': 'Jabatan',
+    'profile.departmentPlaceholder': 'Cth: Bahagian Pentadbiran',
+    'profile.position': 'Jawatan',
+    'profile.positionPlaceholder': 'Cth: Pegawai Tadbir',
+    'profile.updateSuccess': 'Profil berjaya dikemaskini',
+    'profile.updateError': 'Gagal mengemaskini profil',
+    'profile.languageSettings': 'Tetapan Bahasa',
+    'profile.languageSettingsDesc': 'Pilih bahasa pilihan anda untuk antaramuka',
+    'profile.languageUpdateSuccess': 'Bahasa berjaya dikemaskini',
+    
     // Header
     'header.portalTitle': 'Portal Digital MBJ',
     'header.organization': 'JPJ Negeri Melaka',
@@ -245,6 +259,20 @@ const translations: Record<Language, Record<string, string>> = {
     'role.staff': 'Staff',
     'role.committee': 'MBJ Committee',
     'role.chairman': 'Chairman',
+    
+    // Profile
+    'profile.personalInfo': 'Personal Information',
+    'profile.personalInfoDesc': 'Update your profile information',
+    'profile.phone': 'Phone Number',
+    'profile.department': 'Department',
+    'profile.departmentPlaceholder': 'E.g: Administration Division',
+    'profile.position': 'Position',
+    'profile.positionPlaceholder': 'E.g: Administrative Officer',
+    'profile.updateSuccess': 'Profile updated successfully',
+    'profile.updateError': 'Failed to update profile',
+    'profile.languageSettings': 'Language Settings',
+    'profile.languageSettingsDesc': 'Choose your preferred interface language',
+    'profile.languageUpdateSuccess': 'Language updated successfully',
     
     // Header
     'header.portalTitle': 'MBJ Digital Portal',
